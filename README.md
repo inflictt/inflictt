@@ -8,7 +8,7 @@
 
 I ship fast and build things that last.
 
-🌐 **[inflict.in](https://inflict.in)** - my corner of the internet. It has a living WebGL sky. Press and hold it, you'll see.
+🌐 **Portfolio:** [inflict.in](https://inflict.in)
 
 [![Portfolio](https://img.shields.io/badge/-inflict.in-E3E84A?style=flat-square&logo=googlechrome&logoColor=black)](https://inflict.in)
 [![Twitter](https://img.shields.io/badge/-@Saksham1172975-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Saksham1172975)
@@ -28,8 +28,6 @@ Curious by default, builder by craft. I got into coding in my first year because
 - 💼 Recently wrapped an **AI/ML internship at Kansoft Solutions**, where I automated a 6-8 hour/week AWS cost-reporting workflow end to end and surfaced ~30% ($226-298/month) in potential cloud savings
 - 🧠 300+ DSA problems on LeetCode, 100+ day streak, no zero days
 - 🌱 Learning by shipping, not by watching tutorials
-
-When I'm not coding: probably watching Goku power up. There's a pixel version of him chasing your cursor on my portfolio. No regrets.
 
 ---
 
@@ -85,7 +83,7 @@ Built end to end during my Kansoft internship. Google Gemini converts raw AWS cl
 `React · Node.js · Express · Neon · Google Gemini`
 
 ### [Portfolio v2: inflict.in](https://github.com/inflictt/Portfolio-inflict.in) `live`
-My site's entire background is a real-time WebGL cloud shader - every pixel computed each frame from layered noise, no images, no video, no animation libraries. Ink-blob intro, scroll-scrubbed falling project deck, a snaking SVG timeline, View Transitions theme sweep, live GitHub + LeetCode stats, GA4 event tracking and a 100 Lighthouse SEO score.
+The site's entire background is a real-time WebGL cloud shader - every pixel computed each frame from layered noise, no animation libraries. Ink-blob intro, scroll-scrubbed falling project deck, a snaking SVG timeline, View Transitions theme sweep, live GitHub + LeetCode stats, GA4 event tracking and a 100 Lighthouse SEO score.
 `React 19 · Vite · Tailwind v4 · WebGL · GLSL`
 
 ### [ATS-Ranker: AI Resume Screening](https://github.com/inflictt/ATS-Ranker)
@@ -128,8 +126,8 @@ If the graph is green, I'm telling the truth.
 
 | Year | Chapter |
 |---|---|
-| 2022 | Class 10, St. Paul's - 90% and the first taste of doing things properly |
-| 2024 | Class 12 done, decision made: build things for a living |
+| 2022 | Class 10, St. Paul's - 89% and the first taste of doing things properly |
+| 2024 | Class 12, Central Public School - 70% PCM, decision made: build things for a living |
 | 2024 | B.Tech CSE begins at BML Munjal University |
 | 2024 | TechStorm Hackathon - 3rd place with Ashrafi |
 | 2025 | The grind begins - DSA daily, no zero days |
@@ -143,10 +141,10 @@ If the graph is green, I'm telling the truth.
 
 ### 💬 Open to internships, collaborations, and chats about anything tech.
 
-Every message lands in my inbox, not a form void. I reply within a day.
+Fastest ways to reach me: **[realsaksham06@gmail.com](mailto:realsaksham06@gmail.com)** or DM on **[X](https://x.com/Saksham1172975)** / **[LinkedIn](https://www.linkedin.com/in/sakshamlodha)**
 
-**[inflict.in](https://inflict.in)** · **[realsaksham06@gmail.com](mailto:realsaksham06@gmail.com)**
+⭐ If something in my repos helps you, a star goes a long way.
 
-*( press & hold the sky - change the weather )*
+**[inflict.in](https://inflict.in)**
 
 </div>
